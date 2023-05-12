@@ -6,7 +6,7 @@ I'm a seasoned entrepreneur and technologist passionate about blockchain, AI, cr
 
 - 🌱 I've honed my tech skills and knowledge in solidity, react.js, vue.js, javascript, truffle, ganache, node.js, web3.js, protocols, and deployments on various test networks like sepolia, fuji, bsc testnet, cronos, and more.
 
-- 👯 I've cultivated a thriving crypto community in Mexico City and beyond, working for the Mexican cryptocurrency exchange [Isbit.co](https://isbit.co) and the digital magazine "El Criptógrafo". I've also interacted with important crypto communities like [Bitcuners.org](https://bitcuners.org) in Cancún.
+- 👯 I've cultivated a thriving crypto community in Mexico City and beyond, working for one Mexican cryptocurrency exchange and the digital magazine "El Criptógrafo". I've also interacted with important crypto communities like [Bitcuners.org](https://bitcuners.org) in Cancún.
 
 - 💬 I frequently share my knowledge on Fintech, Blockchain, Sharing Economy, Agile, and more at various platforms and events, including the Global Entrepreneurship Network and National Entrepreneur Week. I've also been invited to teach digital marketing and e-commerce at a prestigious university in Mexico.
 
