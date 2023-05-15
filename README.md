@@ -2,8 +2,6 @@
 
 I'm a seasoned entrepreneur and technologist passionate about blockchain, AI, cryptocurrencies, growth hacking, agile methodologies, and the sharing economy.
 
-- 🔭 I'm currently leading [Nube.agency](https://nube.agency/portfolio-grid), a digital agency for web 2 and web 3 solutions, utilizing technologies such as Cloud, Blockchain, and AI to develop prototypes, full-stack solutions, MVPs, and components.
-
 - 🌱 I've honed my tech skills and knowledge in solidity, react.js, vue.js, javascript, truffle, ganache, node.js, web3.js, protocols, and deployments on various test networks like sepolia, fuji, bsc testnet, cronos, and more.
 
 - 👯 I've cultivated a thriving crypto community in Mexico City and beyond, working for one Mexican cryptocurrency exchange and the digital magazine "El Criptógrafo". I've also interacted with important crypto communities like [Bitcuners.org](https://bitcuners.org) in Cancún.
