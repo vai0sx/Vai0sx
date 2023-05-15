@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a seasoned entrepreneur and technologist passionate about blockchain, AI, cryptocurrencies, growth hacking, agile methodologies, and the sharing economy.
+I'm a seasoned entrepreneur, scrum master and technologist passionate about blockchain, AI, cryptocurrencies, growth hacking, agile methodologies, and the sharing economy.
 
 - 🌱 I've honed my tech skills and knowledge in solidity, react.js, vue.js, javascript, truffle, ganache, node.js, web3.js, protocols, and deployments on various test networks like sepolia, fuji, bsc testnet, cronos, and more.
 
